@@ -7,3 +7,14 @@ sadasf
 sadasf
 sadasf
 sadasf
+function1(){
+	ss
+}
+
+function2(){
+	dd
+}
+
+function3(){
+	aa
+}
