@@ -16,7 +16,6 @@ function2(){
 }
 add func3
 {}
-test3
 function3(){
 	aa
 }
