@@ -15,6 +15,8 @@ function2(){
 	dd
 }
 
+add func3
+{}
 function3(){
 	aa
 }
