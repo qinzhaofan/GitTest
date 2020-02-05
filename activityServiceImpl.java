@@ -14,6 +14,7 @@ function1(){
 function2(){
 	dd
 }
+
 add func3
 {}
 function3(){
