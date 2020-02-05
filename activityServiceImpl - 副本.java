@@ -1,0 +1,21 @@
+sadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasf
+sadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasf
+
+sadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasfsadasf
+
+sadasf
+sadasf
+sadasf
+sadasf
+function1(){
+	ss
+}
+
+function2(){
+	dd
+}
+add func3
+{}
+function3(){
+	aa
+}
